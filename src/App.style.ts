@@ -44,7 +44,7 @@ h1 {
     -moz-text-fill-color: transparent;
     filter: drop-shadow(2px 2px #0085a3);
     font-weight: 600;
-    font-size: 80px;
+    font-size: 60px;
     text-align: center;
     margin: 20px;
 } 
