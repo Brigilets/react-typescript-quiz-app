@@ -15,4 +15,4 @@
 - Styled Components
 
 ### Deployment: 
-- Netlify [deployed version]('beach-react-ts-quiz.netlify.app')
+- Netlify [deployed version]('https://beach-react-ts-quiz.netlify.app')
